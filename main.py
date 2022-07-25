@@ -4,13 +4,6 @@ from typing import Optional
 from WeatherData import WeatherForecast, valid_city, getweather, getPictureFileFromDescription
 from PIL import Image, ImageTk
 
-# TODO README.md
-# https://leetcode.com/study-plan/programming-skills/?progress=0szuce7
-# https://leetcode.com/problems/largest-perimeter-triangle/
-# https://leetcode.com/problems/find-nearest-point-that-has-the-same-x-or-y-coordinate/
-# https://leetcode.com/problems/evaluate-reverse-polish-notation/
-# https://leetcode.com/problems/merge-two-sorted-lists/
-
 window = tk.Tk()
 window.title('Weather App')
 window.geometry('300x300')
